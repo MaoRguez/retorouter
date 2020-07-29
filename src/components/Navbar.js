@@ -8,27 +8,27 @@ class Navbar extends React.Component {
     return (
       <header>
         <nav className="navbar navbar-expand-md navbar-dark bg-dark">
-          <Link className="navbar-brand" to="/">
+          <Link className="nav-link" to="/">
             <img src={logo} alt="Logo" />
           </Link>
           <ul className="navbar-nav mr-auto mx-auto order-0">
             <li className="nav-item">
-              <Link className="navbar-brand" to="/about">
+              <Link className="navbar-brand nav-link" to="/about">
                 About
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="navbar-brand" to="/services">
+              <Link className="navbar-brand nav-link" to="/services">
                 Services
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="navbar-brand" to="/projects">
+              <Link className="navbar-brand nav-link" to="/projects">
                 Projects
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="navbar-brand" to="/contacts">
+              <Link className="navbar-brand nav-link" to="/contacts">
                 Contacts
               </Link>
             </li>
