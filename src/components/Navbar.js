@@ -7,7 +7,7 @@ class Navbar extends React.Component {
   render() {
     return (
       <header>
-        <nav className="navbar navbar-expand-md navbar-dark bg-dark">
+        <nav className="navbar navbar-expand-md navbar-dark">
           <Link className="nav-link" to="/">
             <img src={logo} alt="Logo" />
           </Link>
@@ -34,8 +34,8 @@ class Navbar extends React.Component {
             </li>
           </ul>
           <div>
-            <button type="button" className="btn btn-dark" >Log In</button>
-            <button type="button" className="btn btn-dark" >Sing Up</button>
+            <button type="button" className="btn btn-dark mr-2">Log In</button>
+            <button type="button" className="btn btn-dark mr-2">Sing Up</button>
           </div>
         </nav>
       </header>
