@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/retorouter/static/css/main.84aabb4f.chunk.css",
+    "main.js": "/retorouter/static/js/main.a1b11931.chunk.js",
+    "main.js.map": "/retorouter/static/js/main.a1b11931.chunk.js.map",
+    "runtime-main.js": "/retorouter/static/js/runtime-main.5064f274.js",
+    "runtime-main.js.map": "/retorouter/static/js/runtime-main.5064f274.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/retorouter/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.ce0b91b7.chunk.js": "/retorouter/static/js/2.ce0b91b7.chunk.js",
+    "static/js/2.ce0b91b7.chunk.js.map": "/retorouter/static/js/2.ce0b91b7.chunk.js.map",
+    "index.html": "/retorouter/index.html",
+    "precache-manifest.9020ae86e3af169ddddb2dbfe9cee251.js": "/retorouter/precache-manifest.9020ae86e3af169ddddb2dbfe9cee251.js",
+    "service-worker.js": "/retorouter/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/retorouter/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.84aabb4f.chunk.css.map": "/retorouter/static/css/main.84aabb4f.chunk.css.map",
+    "static/js/2.ce0b91b7.chunk.js.LICENSE.txt": "/retorouter/static/js/2.ce0b91b7.chunk.js.LICENSE.txt",
+    "static/media/001-home.svg": "/retorouter/static/media/001-home.bacec8f1.svg",
+    "static/media/115-users.svg": "/retorouter/static/media/115-users.4a2c918d.svg",
+    "static/media/388-mail.svg": "/retorouter/static/media/388-mail.49998e39.svg",
+    "static/media/astronauts.svg": "/retorouter/static/media/astronauts.71addf45.svg",
+    "static/media/kisspng.png": "/retorouter/static/media/kisspng.a5ee2d16.png",
+    "static/media/NotFound.css": "/retorouter/static/media/stars.1d17360a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5064f274.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.ce0b91b7.chunk.js",
+    "static/css/main.84aabb4f.chunk.css",
+    "static/js/main.a1b11931.chunk.js"
+  ]
+}
