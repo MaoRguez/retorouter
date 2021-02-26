@@ -1,4 +1,4 @@
-name: Refresh Feed
+name: Refresh
 on: 
   schedule:
     - cron: '10 15 5 8 3'
