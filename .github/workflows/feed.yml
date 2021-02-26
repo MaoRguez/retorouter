@@ -15,7 +15,7 @@ jobs:
         uses: JamesIves/fetch-api-data-action@releases/v1
         with:
           ENDPOINT: https://api.football-data.org/v2/competitions/PL/scorers
-          CONFIGURATION: '{ "method": "GET", "headers": {"Authorization": "X-Auth-Token ${{ secrets.API_TOKEN }}"} }'
+          CONFIGURATION: '{ "method": "GET", "headers": {"X-Auth-Token": "${{ secrets.API_TOKEN }}"} }'
 
       - name: Build and Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
